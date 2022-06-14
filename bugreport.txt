@@ -1,0 +1,14 @@
+ID
+Title
+Module
+Program_version
+Environment
+Severity
+Priority
+Status
+Author
+Appointed_to
+Steps
+Actual_result
+Expected_Result
+Applications
